@@ -32,6 +32,7 @@
         <module>dubbo-samples-metadata-report-local-annotaion</module>
         <module>dubbo-samples-metadata-report-local-xml</module>
         <module>dubbo-samples-metadata-report-local-properties</module>
+        <module>dubbo-samples-metadata-report-redis-xml</module>
     </modules>
 
 </project>
